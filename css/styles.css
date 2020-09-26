@@ -1,0 +1,59 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+#header {
+  background-image: url(../img/girls-fit-2.jpg);
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+#header .navbar-nav li a {
+  float: right;
+  color: white !important;
+}
+#header nav img {
+  width: 150px;
+  margin-left: 30px;
+}
+#header nav .fa-bars {
+  color: #fff !important;
+  font-size: 26px;
+}
+#header .navbar-toggler {
+  border: none !important;
+  outline: none !important;
+}
+
+.welcome {
+  padding: 50px 100px;
+  margin-top: -140px;
+  background-color: #ffc800;
+  box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.welcome .home-btn {
+  margin-top: 10px;
+  padding: 10px 30px;
+  border-radius: 30px;
+}
+.welcome h1 {
+  color: #1a1c20;
+}
+
+#about {
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+#about .col-md-6 {
+  padding: 20px 10px;
+}
+#about h3 {
+  margin: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,13 @@
+$color-text-negro: #1a1c20;
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@import 'header';
+@import 'main';
+@import 'about';

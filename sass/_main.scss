@@ -1,0 +1,17 @@
+.welcome{
+    padding: 50px 100px;
+    margin-top: -140px;
+    background-color: #ffc800;
+    box-shadow: 0 0 20px 7px rgba(0,0,0, 0.2);
+    border-radius: 5px;
+
+    .home-btn{
+        margin-top: 10px;
+        padding: 10px 30px;
+        border-radius: 30px;
+    }
+
+    h1{
+        color: $color-text-negro;
+    }
+}
