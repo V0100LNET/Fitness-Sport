@@ -1,5 +1,9 @@
+// .bg{
+// }
+
 #header{
-    background-image: url(../img/girls-fit-2.jpg) ;
+    // background-image: url(../img/girls-fit-2.jpg);
+    background-image: radial-gradient(rgba(0,0,0, 0.5),rgba(0,0,0, 0.1)), url(../img/girls-fit-2.jpg);
     height: 80vh;
     background-size: cover;
     background-position: center;
@@ -7,6 +11,7 @@
     .navbar-nav li a{
         float: right;
         color: white !important;
+        font-weight: bold;
     }
 
     nav{
